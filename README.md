@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuFengDing&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuFengDing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
